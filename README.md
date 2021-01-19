@@ -1,1 +1,2 @@
-# pet1
+# fix
+fixing link of virtual pet game
